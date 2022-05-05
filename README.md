@@ -10,8 +10,8 @@ I've worked as web developer using laravel while in college for less than 2 year
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/rizky-mashudi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rizky mashudi | LinkedIn" width="21px"/></a>
-</br>
+- LinkedIn: <a href="https://www.linkedin.com/in/rizky-mashudi/">Rizky mashudi</a>
+- Email: rizkymashudi7@gmail.com
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
