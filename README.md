@@ -12,6 +12,7 @@ I've worked as web developer using laravel while in college for less than 2 year
 
 - LinkedIn: <a href="https://www.linkedin.com/in/rizky-mashudi/">Rizky mashudi</a>
 - Email: rizkymashudi7@gmail.com
+- Website: <a href="https://rizkymashudi.github.io/rmwashere/">rizkymashudi.github.io/rmwashere</a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
