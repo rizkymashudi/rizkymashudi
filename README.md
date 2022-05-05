@@ -5,10 +5,10 @@ Hi there, I'm <a href="https://rizkymashudi.github.io/rmwashere/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a Junior iOS Developer 💻, and Web dev enthusiast
+I'm a Junior iOS Developer 📱, and Web dev enthusiast 💻
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I've worked as web developer using laravel while in college for less than 2 years. Currently learning and passionate in iOS development and related technology, also Web development and UI/UX enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
 
 ### 🤝 Connect with me:
 
@@ -26,10 +26,14 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- 📱 iOS development
+- UIKit
+- SwiftUI
+- Reusable component
+- Networking in swift
+- JSON handling
+- Reactive programming with RxSwift
+- High leverage engineering
 
 ## 💼 Technical Skills
 
@@ -67,11 +71,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&layout=compact)](https://github.com/rizkymashudi)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizkymashudi.rizkymashudi)](https://rizkymashudi.github.io/rmwashere/)
 
 <!--
 **rizkymashudi/rizkymashudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
