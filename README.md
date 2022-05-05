@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://rizkymashudi.github.io/rmwashere/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a Junior iOS Developer 📱 and Web dev enthusiast 💻
+I'm a Junior iOS Developer and Web dev enthusiast 📱💻
 </h2> 
 
 I've worked as web developer using laravel while in college for less than 2 years. Currently passionate learning in iOS development and related technology, also Web development and UI/UX enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
