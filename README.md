@@ -8,14 +8,6 @@ I'm a Junior iOS Developer and Web dev enthusiast 📱💻
 
 I've worked as web developer using laravel while in college for less than 2 years. Currently passionate learning in iOS development and related technology, also Web development and UI/UX enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
 
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&layout=compact)](https://github.com/rizkymashudi)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizkymashudi.rizkymashudi)](https://rizkymashudi.github.io/rmwashere/)
-
 
 ## 🔭 I'm currently working on
 
@@ -67,6 +59,13 @@ I've worked as web developer using laravel while in college for less than 2 year
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&layout=compact)](https://github.com/rizkymashudi)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizkymashudi.rizkymashudi)](https://rizkymashudi.github.io/rmwashere/)
 <!-- ## 📝 Latest Blog Posts
 
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
@@ -80,7 +79,6 @@ I've worked as web developer using laravel while in college for less than 2 year
 - Email: rizkymashudi7@gmail.com
 - Website: <a href="https://rizkymashudi.github.io/rmwashere/">rizkymashudi.github.io/rmwashere</a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- 
 
 <!--
 **rizkymashudi/rizkymashudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
