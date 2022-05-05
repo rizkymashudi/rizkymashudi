@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://rizkymashudi.github.io/rmwashere/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a Junior iOS Developer 📱, and Web dev enthusiast 💻
+I'm a Junior iOS Developer 📱 and Web dev enthusiast 💻
 </h2> 
 
 I've worked as web developer using laravel while in college for less than 2 years. Currently passionate learning in iOS development and related technology, also Web development and UI/UX enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
@@ -53,11 +53,6 @@ I've worked as web developer using laravel while in college for less than 2 year
 
 </br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
-</br>
 
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
