@@ -8,12 +8,14 @@ I'm a Junior iOS Developer and Web dev enthusiast 📱💻
 
 I've worked as web developer using laravel while in college for less than 2 years. Currently passionate learning in iOS development and related technology, also Web development and UI/UX enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
 
-### 🤝 Connect with me:
+## 📈 GitHub Stats 
 
-- LinkedIn: <a href="https://www.linkedin.com/in/rizky-mashudi/">Rizky mashudi</a>
-- Email: rizkymashudi7@gmail.com
-- Website: <a href="https://rizkymashudi.github.io/rmwashere/">rizkymashudi.github.io/rmwashere</a>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&layout=compact)](https://github.com/rizkymashudi)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizkymashudi.rizkymashudi)](https://rizkymashudi.github.io/rmwashere/)
+
 
 ## 🔭 I'm currently working on
 
@@ -72,13 +74,13 @@ I've worked as web developer using laravel while in college for less than 2 year
 - [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602) -->
 
-## 📈 GitHub Stats 
+### 🤝 Connect with me:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&layout=compact)](https://github.com/rizkymashudi)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizkymashudi.rizkymashudi)](https://rizkymashudi.github.io/rmwashere/)
+- LinkedIn: <a href="https://www.linkedin.com/in/rizky-mashudi/">Rizky mashudi</a>
+- Email: rizkymashudi7@gmail.com
+- Website: <a href="https://rizkymashudi.github.io/rmwashere/">rizkymashudi.github.io/rmwashere</a>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 
 
 <!--
 **rizkymashudi/rizkymashudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
