@@ -23,9 +23,9 @@ I've worked as web developer using laravel while in college for less than 2 year
 - UIKit
 - SwiftUI
 - Reusable component
-- Concurrency
-- Networking in swift
-- JSON handling
+- Concurrency in Swift
+- Networking in Swift
+- MultiTasking in Swift
 - Reactive programming with RxSwift
 - High leverage engineering
 
