@@ -20,6 +20,10 @@ I've worked as web developer using laravel while in college for less than 2 year
 
 - 📱 iOS development
 - Data Structure and Algorithm
+- Object Oriented Programming
+- Protocol Oriented Programming
+- Software Design Principle
+- SOLID principle
 - UIKit
 - SwiftUI
 - Reusable component
