@@ -66,7 +66,7 @@ I've experienced as web developer (laravel framework), html, css, javascript. Cu
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&layout=compact)](https://github.com/rizkymashudi)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&layout=compact)](https://github.com/rizkymashudi) -->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizkymashudi.rizkymashudi)](https://rizkymashudi.github.io/rmwashere/)
 <!-- ## 📝 Latest Blog Posts
