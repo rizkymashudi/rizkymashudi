@@ -62,8 +62,7 @@ I've worked as web developer using laravel while in college for less than 2 year
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwaisalqadri&hide=javascript,html,php,css,scss,roff)](https://github.com/uwaisalqadri/github-readme-stats)
-[![Uwais's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaisalqadri)](https://github.com/uwaisalqadri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&hide=javascript,html,php,css,scss,roff)](https://github.com/rizkymashudi/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
 
