@@ -12,7 +12,6 @@ I've experienced as web developer (laravel framework), html, css, javascript. Cu
 ## 🔭 I'm currently working on
 
 - My old projects (Continue Practice)
-- Movie App with Basic MVVM and clean architecture
 - My swift language skill
 
 
