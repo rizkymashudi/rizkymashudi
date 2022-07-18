@@ -1,9 +1,9 @@
 <h3 align="center">
-Hi there, I'm <a href="https://rizkymashudi.github.io/rmwashere/" target="_blank" rel="noreferrer">Rizky mashudi</a> 👋
+Hi, I'm <a href="https://rizkymashudi.github.io/rmwashere/" target="_blank" rel="noreferrer">Rizky mashudi</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Junior iOS Developer and Web dev enthusiast 📱💻
+Junior iOS Developer and Web dev enthusiast 📱💻
 </h2> 
 
 I've experienced as web developer (laravel framework), html, css, javascript. Currently passionate learning in iOS development and related technology, also Web technology enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
@@ -62,7 +62,7 @@ I've experienced as web developer (laravel framework), html, css, javascript. Cu
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi)](https://github.com/rizkymashudi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&hide=html,css,scss,blade,roff)](https://github.com/rizkymashudi/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
 
