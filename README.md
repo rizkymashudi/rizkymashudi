@@ -62,6 +62,8 @@ I've worked as web developer using laravel while in college for less than 2 year
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwaisalqadri&hide=javascript,html,php,css,scss,roff)](https://github.com/uwaisalqadri/github-readme-stats)
+[![Uwais's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaisalqadri)](https://github.com/uwaisalqadri/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
 
@@ -80,7 +82,6 @@ I've worked as web developer using laravel while in college for less than 2 year
 - LinkedIn: <a href="https://www.linkedin.com/in/rizky-mashudi/">Rizky mashudi</a>
 - Email: rizkymashudi7@gmail.com
 - Website: <a href="https://rizkymashudi.github.io/rmwashere/">rizkymashudi.github.io/rmwashere</a>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <!--
 **rizkymashudi/rizkymashudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
