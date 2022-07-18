@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://rizkymashudi.github.io/rmwashere/" target="_blank
 I'm a Junior iOS Developer and Web dev enthusiast 📱💻
 </h2> 
 
-I've worked as web developer using laravel while in college for less than 2 years. Currently passionate learning in iOS development and related technology, also Web development and UI/UX enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
+I've experienced as web developer (laravel framework), html, css, javascript. Currently passionate learning in iOS development and related technology, also Web technology enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
 
 
 ## 🔭 I'm currently working on
@@ -62,7 +62,7 @@ I've worked as web developer using laravel while in college for less than 2 year
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi&hide=javascript,html,php,css,scss,roff)](https://github.com/rizkymashudi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymashudi)](https://github.com/rizkymashudi/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rizkymashudi)](https://github.com/rizkymashudi)
 
