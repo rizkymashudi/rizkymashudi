@@ -18,17 +18,10 @@ I've experienced as web developer (laravel framework), html, css, javascript. Cu
 ## 🌱 I'm currently learning
 
 - 📱 iOS development
-- Data Structure and Algorithm
-- Object Oriented Programming
-- Protocol Oriented Programming
-- Software Design Principle
-- SOLID principle
-- UIKit
-- SwiftUI
-- Reusable component
 - Concurrency in Swift
 - Networking in Swift
 - MultiTasking in Swift
+- Dependency Injection
 - Reactive programming with RxSwift
 - High leverage engineering
 
