@@ -6,13 +6,13 @@ Hi, I'm <a href="https://rizkymashudi.github.io/rmwashere/" target="_blank" rel=
 Junior iOS Developer and Web dev enthusiast 📱💻
 </h2> 
 
-I've experienced as web developer (laravel framework), html, css, javascript. Currently passionate learning in iOS development and related technology, also Web technology enthusiast. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
+I've experienced as web developer (laravel framework), html, css, javascript. Currently passionate learning in iOS development, mobile development and related technology. I love the entire process when developing creative apps or websites, feeling the challenge when facing obstacle and find the solution.
 
 
 ## 🔭 I'm currently working on
 
 - My old projects (Continue Practice)
-- My swift language skill
+- learn dart and flutter
 
 
 ## 🌱 I'm currently learning
@@ -38,7 +38,6 @@ I've experienced as web developer (laravel framework), html, css, javascript. Cu
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 <br>
 
